@@ -1,0 +1,79 @@
+C:\Users\ndirier\Desktop\sozluk\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\ndirier\Desktop\sozluk\sozluk\bin\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\sozluk\sozluk\bin\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.kaydol.resources
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.giris.resources
+C:\Users\ndirier\Desktop\sozluk\sozluk\obj\Debug\sozluk.sozluk.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\bin\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\bin\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.giris.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.sozluk.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.kaydol.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.sozluk2.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.ekle.resources
+C:\Users\ndirier\Desktop\sozlukproje\sozluk\obj\Debug\sozluk.ekle2.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\bin\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\bin\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.ekle.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.ekle2.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.giris.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.sozluk.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.sozluk2.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.kaydol.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.csproj.GenerateResource.Cache
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\bin\Debug\Interop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\Interop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.csproj.ResolveComReference.cache
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.muzik.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.zar.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.sayitahmin.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.web.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\Geliştirilecek Projeler\sozlukproje\sozluk\obj\Debug\sozluk.atyarisi.resources
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\Interop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.csproj.ResolveComReference.cache
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\Geliştirilcek proje\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\sozluk.exe.config
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\Interop.WMPLib.dll
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.csproj.ResolveComReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\sozluk.exe
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\sozluk.pdb
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\Interop.WMPLib.dll
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.csprojResolveAssemblyReference.cache
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.atyarisi.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.ekle.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.ekle2.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.giris.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.muzik.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.sayitahmin.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.sozluk.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.sozluk2.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.kaydol.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.Properties.Resources.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.web.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.zar.resources
+C:\Users\ndirier\Desktop\Yazılım Projelerim\BİTMİŞPROJELER\FORM\sozlukproje\sozluk\obj\Debug\sozluk.csproj.GenerateResource.Cache

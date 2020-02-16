@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C17EB59F-69DB-4ECE-A0A1-80266DDFFB04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sozluk</RootNamespace>
+    <AssemblyName>sozluk</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="atyarisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="atyarisi.Designer.cs">
+      <DependentUpon>atyarisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekle.Designer.cs">
+      <DependentUpon>ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekle2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekle2.Designer.cs">
+      <DependentUpon>ekle2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="muzik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="muzik.Designer.cs">
+      <DependentUpon>muzik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sayitahmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sayitahmin.Designer.cs">
+      <DependentUpon>sayitahmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turking.Designer.cs">
+      <DependentUpon>turking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ingturk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingturk.Designer.cs">
+      <DependentUpon>ingturk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kaydol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kaydol.Designer.cs">
+      <DependentUpon>kaydol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="web.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="web.Designer.cs">
+      <DependentUpon>web.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zar.Designer.cs">
+      <DependentUpon>zar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="atyarisi.resx">
+      <DependentUpon>atyarisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekle.resx">
+      <DependentUpon>ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekle2.resx">
+      <DependentUpon>ekle2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="muzik.resx">
+      <DependentUpon>muzik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sayitahmin.resx">
+      <DependentUpon>sayitahmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turking.resx">
+      <DependentUpon>turking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingturk.resx">
+      <DependentUpon>ingturk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kaydol.resx">
+      <DependentUpon>kaydol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="web.resx">
+      <DependentUpon>web.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zar.resx">
+      <DependentUpon>zar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
